@@ -1,0 +1,5 @@
+/* criando o css para a fonte escolhida */
+@font-face {
+    font-family: 'Yugioh';
+    src: url(../fontes/fonte-yu-gi-oh.otf);
+}
