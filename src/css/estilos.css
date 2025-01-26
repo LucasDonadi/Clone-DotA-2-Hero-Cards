@@ -1,7 +1,7 @@
 body {
     /*aplicando a fonte do arquivo fontes.css*/
     font-family: 'Yugioh', serif;
-    background-image: url(/src/imagens/fundo-site.jpg);
+    background-image: url(src/imagens/fundo-site.jpg);
     background-repeat: no-repeat;
     /* cover serve para cobrir todo o background do body */
     background-size: cover;
