@@ -1,4 +1,4 @@
-@media(max-width: 768px){
+@media(max-width: 768px) {
     body {
         background-position: center;
         padding: 0 15px;
@@ -9,12 +9,12 @@
     }
 }
 
-@media(max-width: 496px){
+@media(max-width: 496px) {
     .lista-personagens {
         width: 250px;
     }
 
-    .iagem-carta {
+    .imagem-carta {
         width: 100%;
     }
 
@@ -36,7 +36,7 @@
     }
 }
 
-@media(max-width: 375px){
+@media(max-width: 375px) {
     body {
         justify-content: start;
         padding-top: 10px;
