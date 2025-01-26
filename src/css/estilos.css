@@ -152,19 +152,19 @@ body {
     cursor: pointer;
     transition: background-color 0.2s ease-in-out;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  }
+}
 
-.btn-seta.btn-voltar{
+.btn-seta.btn-voltar {
     transform: rotateY(180deg);
 
 }
 
-.btn-seta:hover{
+.btn-seta:hover {
     background-color: #8351fe;
 }
 
 /* Estilo do scroll:  */
-body::-webkit-scrollbar-track{
+body::-webkit-scrollbar-track {
     background-color: #c08057;
 }
 
@@ -180,5 +180,3 @@ body::-webkit-scrollbar-track{
 ::-webkit-scrollbar-thumb:hover {
     background: #c08057;
 }
-
-
